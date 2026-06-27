@@ -1,0 +1,11 @@
+ID_Commande,Pays_Destination,Transporteur,Date_Expedition,Date_Livraison_Prevue,Date_Livraison_Reelle,Valeur_Commande,Nombre jour de retard,Penalités,Statue de livraison 
+CMD-001,France,DHL,01/05/2026,05/05/2026,04/05/2026,12500,0,0,A Temps
+CMD-002,Allemagne,FedEx,01/05/2026,04/05/2026,06/05/2026,8400,2,400,Retard
+CMD-003,Espagne,DHL,02/05/2026,07/05/2026,07/05/2026,21000,0,0,A Temps
+CMD-004,France,UPS,03/05/2026,06/05/2026,09/05/2026,4500,3,540,Retard
+CMD-005,Italie,FedEx,04/05/2026,08/05/2026,08/05/2026,16200,0,0,A Temps
+CMD-006,Allemagne,UPS,05/05/2026,08/05/2026,12/05/2026,31000,4,720,Retard
+CMD-007,France,DHL,06/05/2026,11/05/2026,10/05/2026,9800,0,0,A Temps
+CMD-008,Espagne,FedEx,07/05/2026,12/05/2026,15/05/2026,11500,3,600,Retard
+CMD-009,Italie,UPS,08/05/2026,13/05/2026,13/05/2026,7200,0,0,A Temps
+CMD-010,Allemagne,DHL,09/05/2026,13/05/2026,12/05/2026,18500,0,0,A Temps
